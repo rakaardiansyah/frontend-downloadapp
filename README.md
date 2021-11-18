@@ -1,5 +1,4 @@
 Image :
-![myimage-alt-tag](https://gitlab.com/rakaardiansyah/donation-website-frontend/-/raw/master/image/1.png)
-![myimage-alt-tag](https://gitlab.com/rakaardiansyah/donation-website-frontend/-/raw/master/image/2.png)
-![myimage-alt-tag](https://gitlab.com/rakaardiansyah/donation-website-frontend/-/raw/master/image/3.png)
-![myimage-alt-tag](https://gitlab.com/rakaardiansyah/donation-website-frontend/-/raw/master/image/4.png)
+![myimage-alt-tag](https://raw.githubusercontent.com/rakaardiansyah/frontend-downloadapp/master/image-frontend/1.png)
+![myimage-alt-tag](https://raw.githubusercontent.com/rakaardiansyah/frontend-downloadapp/master/image-frontend/2.png)
+![myimage-alt-tag](https://raw.githubusercontent.com/rakaardiansyah/frontend-downloadapp/master/image-frontend/3.png)
